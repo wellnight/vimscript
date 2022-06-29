@@ -35,9 +35,9 @@ set vb t_vb=
 
 
 " vim文件备份
-set backup
-"set nowritebackup
-"set noswapfile
+set nobackup
+set writebackup
+set swapfile
 
 
 " 水平分割
